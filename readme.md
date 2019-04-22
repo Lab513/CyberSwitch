@@ -18,3 +18,5 @@ The main function is mainControl.m
 The Utilities folder contains a collection of auxiliary functions that are used in other parts of the code.
 
 You can re-plot all the graphs of the paper with the script PaperFigures.m (I recommend executing it section by section, some parts of the script take time.)
+
+:warning: **Important note**: The code and data you are now looking at is exactly the same as at the time of publication (except for this readme). A few minor bugs and data-formatting errors have been pointed out by other people and we have published updated versions of this repository on the 'updates' branch. You can find more recent versions here: [https://github.com/Lab513/CyberSwitch/tree/updates](https://github.com/Lab513/CyberSwitch/tree/updates)
